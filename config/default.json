@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://siva:India1234@cluster0-xy4ar.mongodb.net/todo?retryWrites=true&w=majority",
+  "jwtSecret": "MySecretKey",
+  "github_client_id": "831609250cd1662a6d63",
+  "github_client_secret": "33d359ccaa00d3351c9d0f4b1bdd650624e12abe"
+}
